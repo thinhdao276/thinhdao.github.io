@@ -1,0 +1,62 @@
+# LLM and Gen AI (AI Tạo Sinh)
+
+- [ ] create slide for sharing AI introduction 📅 2025-05-09
+
+ChatGPT xuất hiện và gây bão vào: 11-2023 -> sau khi xuất hiện thì google raise red flag, và trong vòng 2.5 năm thì mọi thứ thay đổi quá nhanh.
+
+- Slide 1: AI is a set of tools:
+	- Supervised learning (nhóm phát triển nhiều nhất)
+	- Generative AI (sinh sau đẻ muộn nhưng gây bão, wow nhiều nhất)
+	- Unsupervised learning (EDA)
+	- Reinforce learning (học tăng cường, xuất phát từ 1 bạn nhân viên của google)
+- Slide 2: 2022 đã gây bão ntn
+	- Tập hợp các article gây bão (lo sợ lẫn phấn khích)
+	- 1 vài ví dụ ứng dụng thay thế cho nhân viên
+- Slide 3: AI tạo sinh không chỉ là LLM
+	- Text to Image
+		- Image generation
+		- Image editing
+	- Text to Video
+		- Video Generation
+		- Video Editing
+		- Game assets
+	- Text to Text
+		- Generation
+		- Classification
+		- Summization
+		- Translation
+		- Re(search)
+		- Extraction
+		- Clustering
+		- Content editing/rewrite
+	- Trong Gen AI, có xu hướng mới là: multi models, có nhiều model trong 1 AI, và thực hiện nhiều tác vụ hơn (image gen trong chat, edit, etc...)
+- Slide 4: AI tạo sinh là một thế giới mới lạ, với nhiều điều không tưởng.
+	- Câu hỏi mở, open question: điều gì thay đổi khi có AI
+	- Đọc nhiều hơn, cần quan sát, biết cách đặt câu hỏi và nói con AI của mình làm.
+- Slide 5: Nguyên tắc cơ bản
+	- Nguyên tắc cơ bản: dự đoán từ kế tiếp
+	- Ví dụ: tell a story -> once upon the time....
+- Slide 6: LLM training process
+	- Dataset
+	- Preprosessing
+	- Pre-training
+		- Q&A format
+		- Long-context stage
+		- Continued pre-training
+		- High-quality stage
+		- Knowledgeg distillation
+	- Giải thích post-training (fine-tuning) là gì
+		- fine-tuning
+		- RLHF
+		- DPO
+		- Online/offline
+		- Knowledge distillation
+- Slide 6: lập trình với LLMs
+	- Open-source (hugging face)
+	- APIs (gpt, claude, gemini)
+- Thách thức
+	- Risk cyber security
+	- LLM không thực sự hiểu: Ví dụ xuân tóc đỏ trong chí phèo.
+	- Kết quả có thể nhận sai một cách rất hợp lý
+	- Bias
+- RAG vs Tool AI
