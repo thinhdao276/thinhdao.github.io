@@ -1,14 +1,18 @@
 ---
-title: "Introduction to AI"
+title: "an introduction <br> to Large Language Model <br> and generative AI"
+# subtitle: "Thinh Dao"
 author: "Thinh Dao"
+# date: "2025-05-23"
 format: 
   revealjs:
-    theme: ["css/main.scss"]
+    theme: "css/tidy_perspective.scss"
+    transition: fade
+    background-transition: fade
     slide-number: c/t
-    logo: "https://www.rstudio.com/wp-content/uploads/2018/10/RStudio-Logo-Flat.png"
-    footer: "[https://jthomasmock.github.io/arrow-dplyr](https://jthomasmock.github.io/arrow-dplyr)"
+    logo: "_img/td.png"
+    footer: "By Thinh Dao"
     code-copy: true
-    center-title-slide: false
+    # center-title-slide: false
     # include-in-header: heading-meta.html
     code-link: true
     code-overflow: wrap
@@ -20,4 +24,26 @@ execute:
   echo: true
 ---
 
-<h1> Introduction LLM and GenAI </h1>
+<h1> Do you rember when GPT first time release?</h1>
+
+
+<h1> What is AI? </h1>
+
+# How AI LLM work? {.smaller}
+
+:::: {.columns}
+::: {.column width="100%"}
+:::
+::::
+
+::: {.r-fit-text .absolute top=200 left=0 right=0 style="text-align: center;"}
+<span class="fragment" data-fragment-index="1">Once</span>
+<span class="fragment" data-fragment-index="2"> upon</span>
+<span class="fragment" data-fragment-index="3"> the</span>
+<span class="fragment" data-fragment-index="4"> time...</span>
+:::
+
+::: {.fragment .fade-up data-fragment-index="5" .absolute bottom=40 style="text-align: center; width: 100%;"}
+AI LLMs generate text by predicting one word at a time.
+:::
+

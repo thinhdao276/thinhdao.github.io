@@ -1,0 +1,52 @@
+---
+title: "Skills"
+---
+
+# Skills
+
+## Programming
+- **Python**
+- **SQL**
+- R
+- VBA
+- Google App Script
+
+## Data & Analytics
+- Data Analysis & Visualization
+- SCM KPI Reporting & Analysis
+- Predictive Analytics
+- Machine Learning
+- ETL Processes
+- Data Quality Management
+
+## BI & Data Tools
+- Power BI
+- DOMO
+- Python (Pandas, NumPy, Scikit-learn, Plotly/Dash)
+- Alteryx (conceptual understanding, quick to master)
+- Tableau (conceptual understanding, quick to master)
+
+## Supply Chain Management
+- Material Requirement Planning (MRP)
+- Inventory Management & Optimization
+- Logistics & Warehouse Operations
+- Demand Forecasting
+- Supply Chain Process Improvement
+- Service-Cost-Cash Optimization
+
+## Systems
+- **SAP Power User**
+- Experience with ERP systems
+- Data Warehouse Concepts (e.g., Snowflake)
+
+## Languages
+- **English**
+
+## Office
+- GSuite
+- MS Office
+
+## Others
+- Critical Problem-Solving
+- Cross-functional Team Leadership
+- Mentorship & Training

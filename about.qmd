@@ -1,5 +1,23 @@
 ---
-title: "About"
+title: "About Me"
 ---
 
-About this site
+## About Me
+
+I am a passionate and dedicated professional with a strong background in data analysis, digital transformation, and supply chain management. My journey has been marked by a continuous desire to learn and grow, both personally and professionally. I thrive in environments that challenge me and provide opportunities to create a meaningful impact.
+
+### Professional Philosophy
+
+I believe in the power of data to drive decision-making and improve processes. My goal is to foster a culture of continuous improvement and innovation within organizations by leveraging data analytics and digital tools.
+
+### Interests
+
+In addition to my professional pursuits, I enjoy learning new technologies, participating in hackathons, and sharing knowledge with others. I am particularly interested in the intersection of data science and supply chain management, and I am always looking for ways to apply my skills to solve real-world problems.
+
+### Personal Details
+
+- **Birthdate:** June 27, 1994
+- **Location:** Thu Dau Mot, Binh Duong, Vietnam
+- **Contact:** daotuanthinh@gmail.com | (+84) 931770110
+
+Feel free to connect with me on [GitHub](https://github.com/thinhdao276) or reach out via email!

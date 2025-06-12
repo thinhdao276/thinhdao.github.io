@@ -1,0 +1,29 @@
+title: "Thinh Dao's Portfolio"
+description: "A personal website showcasing my professional background, skills, and experiences."
+author:
+  name: "Thinh Dao"
+  email: "daotuanthinh@gmail.com"
+site: "thinhdao.github.io"
+output:
+  html_document:
+    theme: "default"
+    highlight: "textmate"
+    toc: true
+    toc_depth: 2
+    number_sections: true
+navbar:
+  title: "Thinh Dao"
+  left:
+    - text: "Home"
+      href: index.qmd
+    - text: "About"
+      href: about.qmd
+    - text: "Experience"
+      href: experience.qmd
+    - text: "Skills"
+      href: skills.qmd
+    - text: "Education"
+      href: education.qmd
+  right:
+    - text: "GitHub"
+      href: "https://github.com/thinhdao276"

@@ -1,0 +1,15 @@
+---
+title: "Education"
+---
+
+## Education
+
+### University of Economics and Law, Vietnam National University
+- **Location:** HCM, Vietnam
+- **Degree:** Bachelor's Degree in International Business
+- **Dates:** 2012 - 2017
+
+### Trung Tâm Tin Học - Trường Đại Học Khoa Học Tự Nhiên
+- **Location:** HCM, Vietnam
+- **Program:** Data Science & Machine Learning Program
+- **Status:** Ongoing (almost 1.5 years completed, pending final project)

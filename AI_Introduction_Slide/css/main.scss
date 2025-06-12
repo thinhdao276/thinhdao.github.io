@@ -15,16 +15,53 @@ $body-color: #000 !default;
 $link-color: #00008b !default;
 $code-block-bg: #f2f2f2;
 $code-block-font-size: 0.7em;
-
+$presentation-title-slide-text-align: left;
 $presentation-font-smaller: 0.7rem;
 
 /*-- scss:rules --*/
 
-h1 {
-  font-family: "Fira Mono";
-  font-size: 24px;
-}
-
 .author, .date {
   font-size: 34px;
+}
+
+.title-slide-custom {
+  font-size: large;
+}
+
+.custom-title {
+  width: 100%;
+}
+.custom-title h1 {
+  font-size: 3.5em;
+  font-weight: bold;
+  margin-bottom: 0.2em;
+  color: #111;
+}
+
+.custom-title h2 {
+  font-size: 2em;
+  font-weight: 400;
+  margin-top: 300;
+  margin-bottom: 1em;
+  color: #1a237e;
+}
+
+.author-date {
+  font-size: 1.3em;
+  margin-bottom: 2em;
+  color: #333;
+}
+
+.custom-logo {
+  position: absolute;
+  top: 60px;
+  right: 80px;
+  width: 140px;
+  height: auto;
+}
+
+
+.reveal .slides section.title-slide {
+  text-align: left;
+  padding: 40px;
 }

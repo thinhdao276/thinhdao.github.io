@@ -1,0 +1,21 @@
+---
+title: "Thinh Dao's Professional Portfolio"
+format: html
+---
+
+# Welcome to My Professional Portfolio
+
+Hello! I am Thinh Dao, a Senior Data Analyst with over 5 years of experience in data analysis, digital transformation, and supply chain management. My expertise lies in leveraging advanced data analytics and BI tools to drive operational excellence and foster a data-driven culture within organizations.
+
+## About Me
+
+I am passionate about continuous learning and growth, both personally and professionally. I thrive in challenging environments where I can make a meaningful impact. 
+
+## Explore My Work
+
+- [About Me](about.qmd)
+- [Experience](experience.qmd)
+- [Skills](skills.qmd)
+- [Education](education.qmd)
+
+Thank you for visiting my portfolio! Feel free to explore the sections to learn more about my professional journey and achievements.
