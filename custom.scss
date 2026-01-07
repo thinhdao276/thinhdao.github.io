@@ -1,0 +1,172 @@
+/*-- scss:defaults --*/
+
+// Custom color palette
+$primary: #0066cc;
+$secondary: #35424a;
+$light-bg: #f8f9fa;
+$dark-text: #2c3e50;
+
+// Typography
+$font-family-sans-serif: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+$headings-font-weight: 600;
+$headings-color: $dark-text;
+
+/*-- scss:rules --*/
+
+// Hero section styling
+.hero-section {
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  color: white;
+  padding: 4rem 2rem;
+  text-align: center;
+  margin: -2rem -2rem 2rem -2rem;
+  border-radius: 0 0 20px 20px;
+}
+
+.hero-title {
+  font-size: 3rem;
+  font-weight: 700;
+  margin-bottom: 1rem;
+}
+
+.hero-subtitle {
+  font-size: 1.5rem;
+  font-weight: 300;
+  margin-bottom: 2rem;
+}
+
+.profile-image {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  border: 5px solid white;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  margin: 0 auto 2rem;
+  display: block;
+}
+
+// Card styling
+.info-card {
+  background: white;
+  border-radius: 10px;
+  padding: 2rem;
+  margin-bottom: 2rem;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.info-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+}
+
+// Achievement badges
+.achievement-badge {
+  display: inline-block;
+  background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%);
+  color: white;
+  padding: 0.5rem 1rem;
+  border-radius: 20px;
+  margin: 0.5rem 0.5rem 0.5rem 0;
+  font-weight: 500;
+}
+
+// Skills section
+.skill-category {
+  margin-bottom: 2rem;
+}
+
+.skill-item {
+  background: $light-bg;
+  padding: 0.5rem 1rem;
+  border-radius: 5px;
+  margin: 0.5rem 0.5rem 0.5rem 0;
+  display: inline-block;
+}
+
+.skill-item-primary {
+  background: #e3f2fd;
+  font-weight: 600;
+}
+
+// Timeline for experience
+.timeline-item {
+  border-left: 3px solid $primary;
+  padding-left: 2rem;
+  margin-bottom: 2rem;
+  position: relative;
+}
+
+.timeline-item::before {
+  content: "";
+  position: absolute;
+  left: -8px;
+  top: 0;
+  width: 13px;
+  height: 13px;
+  border-radius: 50%;
+  background: $primary;
+  border: 3px solid white;
+  box-shadow: 0 0 0 3px $light-bg;
+}
+
+// Enhance headings
+h1 {
+  color: $primary;
+  border-bottom: 3px solid $primary;
+  padding-bottom: 0.5rem;
+  margin-top: 2rem;
+}
+
+h2 {
+  color: $secondary;
+  margin-top: 2rem;
+}
+
+h3 {
+  color: $dark-text;
+  margin-top: 1.5rem;
+}
+
+// Links
+a {
+  color: $primary;
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+a:hover {
+  color: darken($primary, 15%);
+  text-decoration: underline;
+}
+
+// Contact info
+.contact-info {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 2rem;
+  margin: 2rem 0;
+}
+
+.contact-item {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+// Responsive adjustments
+@media (max-width: 768px) {
+  .hero-title {
+    font-size: 2rem;
+  }
+  
+  .hero-subtitle {
+    font-size: 1.2rem;
+  }
+  
+  .profile-image {
+    width: 150px;
+    height: 150px;
+  }
+}

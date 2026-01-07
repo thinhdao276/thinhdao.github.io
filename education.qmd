@@ -1,15 +1,91 @@
 ---
-title: "Education"
+title: "Education & Certifications"
 ---
 
-## Education
+# Education
 
-### University of Economics and Law, Vietnam National University
-- **Location:** HCM, Vietnam
-- **Degree:** Bachelor's Degree in International Business
-- **Dates:** 2012 - 2017
+## 🎓 Academic Background
 
-### Trung Tâm Tin Học - Trường Đại Học Khoa Học Tự Nhiên
-- **Location:** HCM, Vietnam
-- **Program:** Data Science & Machine Learning Program
-- **Status:** Ongoing (almost 1.5 years completed, pending final project)
+::: {.timeline-item}
+### Bachelor's Degree in International Business
+**University of Economics and Law, Vietnam National University**  
+*HCM, Vietnam | 2012 - 2017*
+
+Comprehensive business education with focus on international trade, economics, and business management. Developed strong analytical and strategic thinking skills applicable to data-driven decision making.
+:::
+
+::: {.timeline-item}
+### Data Science & Machine Learning Program
+**Trung Tâm Tin Học - Trường Đại Học Khoa Học Tự Nhiên (Natural Science University)**  
+*HCM, Vietnam | Ongoing*
+
+Advanced technical program covering:
+- Machine Learning algorithms and applications
+- Statistical analysis and modeling
+- Python programming for data science
+- Deep Learning fundamentals
+- Real-world project implementation
+
+**Status**: Almost 1.5 years completed, pending final project
+:::
+
+---
+
+# Professional Development
+
+## 📚 Continuous Learning
+
+Throughout my career, I've maintained a commitment to continuous learning and professional development:
+
+### Technical Skills Development
+- **Advanced Python for Data Analytics**: Self-study and practical application
+- **SQL & Database Management**: Advanced queries, optimization, and data warehouse concepts
+- **Power BI & DOMO**: Professional certifications and advanced features
+- **SAP**: Power user training and continuous system updates
+- **Cloud Platforms**: Snowflake data warehouse and cloud-based analytics
+
+### Leadership & Management
+- **Team Leadership**: Leading cross-functional teams and digital transformation initiatives
+- **Training & Mentorship**: Developing and delivering comprehensive learning programs
+- **Change Management**: Driving adoption of new tools and data-driven culture
+
+### Industry Knowledge
+- **Supply Chain Management**: Continuous improvement methodologies and best practices
+- **Digital Transformation**: Latest trends in analytics, automation, and BI tools
+- **Data Governance**: Best practices for data quality and management
+
+---
+
+## 🏆 Achievements & Recognition
+
+### Awards
+- **Master of the Year 2025**: Global recognition for #1 Efficiency Project Winner in Global AVA
+- **Master of the Year 2023**: Outstanding contributions to analytics and digital transformation
+- **Best Employee Q4 2020**: Ashton Furniture Consolidations LLC
+- **Best Employee Q1 2021**: Ashton Furniture Consolidations LLC
+
+### Key Projects
+- **Zero Based Inventory Right Sizing**: Global award-winning analytics project
+- **Digital Learning Program**: Comprehensive 8-course roadmap for data analysts
+- **Robotics Automation Platform**: Democratizing RPA across the organization
+- **Order Fulfillment Automation**: 96% reduction in planning time (12 hours → 0.5 hours)
+
+---
+
+## 📖 Knowledge Sharing
+
+I'm passionate about sharing knowledge and contributing to the data analytics community:
+
+- **Internal Training Programs**: Developed and delivered courses on Python, SQL, BI Tools, VBA, and App Script
+- **Mentorship**: Providing technical guidance to analysts and team members
+- **Documentation**: Creating comprehensive learning materials and best practice guides
+- **Hackathons**: Active participant in data science competitions and challenges
+
+---
+
+## 🎯 Future Learning Goals
+
+- Advanced Machine Learning & Deep Learning techniques
+- Cloud-native analytics solutions (AWS, Azure, GCP)
+- Advanced supply chain optimization algorithms
+- Leadership and strategic management certifications

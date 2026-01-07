@@ -1,52 +1,170 @@
 ---
-title: "Skills"
+title: "Skills & Expertise"
 ---
 
-# Skills
+# Technical Skills
 
-## Programming
-- **Python**
-- **SQL**
-- R
-- VBA
-- Google App Script
+## 💻 Programming Languages
 
-## Data & Analytics
-- Data Analysis & Visualization
-- SCM KPI Reporting & Analysis
-- Predictive Analytics
-- Machine Learning
-- ETL Processes
-- Data Quality Management
+::: {.skill-category}
+::: {.skill-item .skill-item-primary}
+**Python** ⭐
+:::
+::: {.skill-item .skill-item-primary}
+**SQL** ⭐
+:::
+::: {.skill-item}
+R
+:::
+::: {.skill-item}
+VBA
+:::
+::: {.skill-item}
+Google App Script
+:::
+:::
 
-## BI & Data Tools
-- Power BI
-- DOMO
-- Python (Pandas, NumPy, Scikit-learn, Plotly/Dash)
-- Alteryx (conceptual understanding, quick to master)
-- Tableau (conceptual understanding, quick to master)
+## 📊 Data & Analytics
 
-## Supply Chain Management
-- Material Requirement Planning (MRP)
-- Inventory Management & Optimization
-- Logistics & Warehouse Operations
-- Demand Forecasting
-- Supply Chain Process Improvement
-- Service-Cost-Cash Optimization
+::: {.skill-category}
+- **Data Analysis & Visualization**: Expert in transforming raw data into actionable insights
+- **SCM KPI Reporting & Analysis**: Specialized in supply chain metrics and performance tracking
+- **Predictive Analytics**: Building models to forecast trends and optimize decisions
+- **Machine Learning**: Applying ML techniques to solve business problems
+- **ETL Processes**: Designing and implementing data pipelines
+- **Data Quality Management**: Ensuring accuracy and reliability of data systems
+:::
 
-## Systems
-- **SAP Power User**
-- Experience with ERP systems
-- Data Warehouse Concepts (e.g., Snowflake)
+## 🛠 BI & Data Tools
 
-## Languages
-- **English**
+::: {.skill-category}
+::: {.skill-item .skill-item-primary}
+Power BI
+:::
+::: {.skill-item .skill-item-primary}
+DOMO
+:::
+::: {.skill-item}
+Sigma
+:::
+::: {.skill-item}
+Snowflake
+:::
 
-## Office
-- GSuite
-- MS Office
+**Python Libraries:**
+::: {.skill-item}
+Pandas
+:::
+::: {.skill-item}
+NumPy
+:::
+::: {.skill-item}
+Scikit-learn
+:::
+::: {.skill-item}
+Plotly/Dash
+:::
 
-## Others
-- Critical Problem-Solving
-- Cross-functional Team Leadership
-- Mentorship & Training
+**Other Tools:**
+::: {.skill-item}
+Alteryx (conceptual)
+:::
+::: {.skill-item}
+Tableau (conceptual)
+:::
+:::
+
+## 📦 Supply Chain Management
+
+::: {.skill-category}
+- **Material Requirement Planning (MRP)**: End-to-end planning for manufacturing environments
+- **Inventory Management & Optimization**: Zero-based inventory right-sizing and optimization
+- **Logistics & Warehouse Operations**: Coordinating complex multi-vendor operations
+- **Demand Forecasting**: Predictive modeling for supply chain planning
+- **Supply Chain Process Improvement**: Continuous improvement and lean methodologies
+- **Service-Cost-Cash Optimization**: Balancing service levels with financial objectives
+:::
+
+## 💼 Enterprise Systems
+
+::: {.skill-category}
+::: {.skill-item .skill-item-primary}
+**SAP Power User** ⭐
+:::
+::: {.skill-item}
+ERP Systems
+:::
+::: {.skill-item}
+Data Warehouse (Snowflake)
+:::
+:::
+
+## 🌐 Languages
+
+::: {.skill-category}
+::: {.skill-item .skill-item-primary}
+**English** - Fluent
+:::
+::: {.skill-item .skill-item-primary}
+**Vietnamese** - Native
+:::
+:::
+
+## 📁 Office & Productivity
+
+::: {.skill-category}
+::: {.skill-item}
+Google Workspace (GSuite)
+:::
+::: {.skill-item}
+Microsoft Office Suite
+:::
+::: {.skill-item}
+Excel (Advanced)
+:::
+::: {.skill-item}
+Power Query
+:::
+:::
+
+---
+
+# Professional Competencies
+
+## 🎯 Leadership & Soft Skills
+
+::: {.info-card}
+### Critical Problem-Solving
+Analytical approach to identifying root causes and developing effective solutions for complex business challenges.
+:::
+
+::: {.info-card}
+### Cross-functional Team Leadership
+Experience leading diverse teams of business and technical experts to deliver high-impact projects.
+:::
+
+::: {.info-card}
+### Mentorship & Training
+Passionate about developing others through comprehensive training programs and one-on-one coaching.
+:::
+
+::: {.info-card}
+### Digital Transformation
+Leading organizational change initiatives to adopt data-driven decision making and modern analytics tools.
+:::
+
+::: {.info-card}
+### Stakeholder Management
+Effectively communicating technical concepts to non-technical audiences and aligning projects with business objectives.
+:::
+
+---
+
+## 🚀 Areas of Expertise
+
+- **Data-Driven Culture Building**: Creating environments where analytics drive decision-making
+- **Process Automation**: Reducing manual work through RPA and intelligent automation
+- **Learning & Development**: Designing and delivering comprehensive training programs
+- **Analytics Strategy**: Aligning analytics capabilities with organizational goals
+- **Tool Implementation**: Successfully deploying new BI and analytics platforms
+- **Efficiency Optimization**: Identifying and implementing improvements that deliver measurable ROI

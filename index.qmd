@@ -1,7 +1,75 @@
 ---
-title: "thinhdao.github.io"
+title: "Thinh Dao"
+page-layout: full
+title-block-banner: false
 ---
 
-This is a Quarto website.
+::: {.hero-section}
+![](images/profile.png){.profile-image}
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+::: {.hero-title}
+Thinh Dao
+:::
+
+::: {.hero-subtitle}
+Senior Data Analyst | Digital Transformation Leader
+:::
+
+Passionate about leveraging data analytics and digital tools to drive operational excellence and foster innovation.
+:::
+
+## Welcome! 👋
+
+Hello! I'm **Thinh Dao**, a Senior Data Analyst with over **5 years of experience** in data analysis, digital transformation, and supply chain management. I specialize in turning complex data into actionable insights that drive business decisions and operational improvements.
+
+### What I Do
+
+::: {.info-card}
+#### 📊 Data Analytics & BI
+I excel at building comprehensive analytics solutions using tools like **Python**, **SQL**, **Power BI**, and **DOMO**. My work focuses on transforming raw data into meaningful insights that empower teams to make data-driven decisions.
+:::
+
+::: {.info-card}
+#### 🚀 Digital Transformation
+Leading digital transformation initiatives across Supply Chain and other departments, I've developed learning programs that upskill analytics capacity and deliver impactful projects. I'm passionate about creating a data-driven culture within organizations.
+:::
+
+::: {.info-card}
+#### 🎓 Mentorship & Training
+I believe in sharing knowledge and empowering others. I've designed and delivered multiple training programs covering Python, SQL, BI tools, and data analytics, helping team members enhance their technical skills and advance their careers.
+:::
+
+### Recent Achievements
+
+::: {.achievement-badge}
+🏆 Master of the Year 2025
+:::
+::: {.achievement-badge}
+#1 Global AVA Winner
+:::
+::: {.achievement-badge}
+Master of the Year 2023
+:::
+
+### Let's Connect
+
+I'm always excited to collaborate on data analytics projects, discuss digital transformation strategies, or share insights about supply chain optimization. Feel free to explore my [experience](experience.qmd), [skills](skills.qmd), and [education](education.qmd) to learn more about my background.
+
+::: {.contact-info}
+::: {.contact-item}
+📧 [daotuanthinh@gmail.com](mailto:daotuanthinh@gmail.com)
+:::
+::: {.contact-item}
+📱 (+84) 931770110
+:::
+::: {.contact-item}
+📍 Thu Dau Mot, Binh Duong, Vietnam
+:::
+::: {.contact-item}
+💼 [GitHub](https://github.com/thinhdao276)
+:::
+:::
+
+---
+
+*"The goal is to turn data into information, and information into insight."* - Carly Fiorina

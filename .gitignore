@@ -1,1 +1,5 @@
 /.quarto/
+_site/
+.DS_Store
+*.Zone.Identifier
+_quarto_internal_scss_error.scss

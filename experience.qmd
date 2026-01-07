@@ -1,56 +1,92 @@
 ---
-title: "Experience"
+title: "Professional Experience"
 ---
 
-## Experience
+# Professional Experience
 
+## 🏢 Current Role
+
+::: {.timeline-item}
 ### SR DATA ANALYST & ENGAGEMENT
-**Company:** Colgate Palmolive  
-**Location:** Binh Duong  
-**Date:** June 2023 - Present  
+**Colgate Palmolive** | Binh Duong, Vietnam  
+*June 2023 - Present*
 
 Led digital transformation initiatives within Supply Chain and other departments, focusing on enhancing data analytics capabilities and delivering impactful projects. Drove a data-driven culture by developing learning programs, upskilling analytics capacity across the organization, and delivering digital and data analytic projects. Collaborated with global analytics teams on new development tools and platforms, ensuring alignment with organizational strategy for intelligent decision-making.
 
-#### Achievements
-- Achieved Master of the Year in 2025 Global recognition as #1 Efficiency Project Winner in the Global AVA data analytics for project Zero Based Inventory Right Sizing.
-- Master of The Year 2023
+#### 🏆 Key Achievements
+- **Master of the Year 2025**: Global recognition as **#1 Efficiency Project Winner** in the Global AVA data analytics for project *Zero Based Inventory Right Sizing*
+- **Master of The Year 2023**: Recognized for outstanding contributions to analytics and digital transformation
 
-#### Leader of Cross Functional - ACT Team
-Led a diverse team of business and technical experts to deliver learning programs and digital projects. The goal of the ACT team is to scale up solutions and best practices, and enhance plant-wide employees' data skills. Responsibilities included recruitment, designing and executing learning and culture engagement activities, performing annual skills assessments, and providing technical guidance and mentorship to analysts.
+#### 👥 Leader of Cross Functional - ACT Team
+Led a diverse team of business and technical experts to deliver learning programs and digital projects. The ACT team's mission is to scale up solutions and best practices while enhancing plant-wide employees' data skills.
 
-**Projects:**
-- Digital Learning Program - *8 courses: a roadmap to be data analyst*
-- Robotics Automation Project – *a mixed programming language solution, enabling all employees to perform RPA themselves*
-- New Digital Tool Deployment - *including new BI tool as DOMO, Sigma new datalake Snowflake or global solution*
+**Responsibilities:**
+- Team recruitment and development
+- Designing and executing learning and culture engagement activities
+- Performing annual skills assessments
+- Providing technical guidance and mentorship to analysts
 
+#### 💡 Featured Projects
+- **Digital Learning Program**: Developed *8 comprehensive courses* creating a complete roadmap to becoming a data analyst
+- **Robotics Automation Project**: Built a mixed programming language solution, enabling all employees to perform RPA themselves
+- **New Digital Tool Deployment**: Successfully deployed new BI tools including DOMO, Sigma, Snowflake data lake, and other global solutions
+:::
+
+---
+
+## 📊 Previous Roles
+
+::: {.timeline-item}
 ### SR MRP & SUPPLY PLANNING ANALYST
-**Company:** Colgate Palmolive  
-**Location:** Binh Duong  
-**Date:** Oct 2022 - May 2023  
+**Colgate Palmolive** | Binh Duong, Vietnam  
+*Oct 2022 - May 2023*
 
 Managed end-to-end material requirement planning (MRP) for raw and packaging materials in a manufacturing environment, ensuring continuous production. Analyzed and reported on key Supply Chain KPIs (e.g., material availability, inventory levels, planning accuracy), identifying trends and driving improvements through data analytics. Improved working efficiency within the team by applying BI tools and data automation techniques.
 
-**Projects & Activities:**
-- Managed and reported on key SCM KPIs, providing insights for performance reviews.
-- Automated Raw and Pack Masterdata Auto Checking, improving data quality for SCM systems.
-- Developed and delivered Python Basic Training Course, SQL, and BI Tools, VBA, and App Script to enhance team members' data skills.
-- Simplified & Improved Performance of SCM Working Files / Automation Processes using GSuite & VB scripts.
+#### 🎯 Key Projects & Activities
+- Managed and reported on key SCM KPIs, providing insights for performance reviews
+- Automated Raw and Pack Masterdata Auto Checking, improving data quality for SCM systems
+- Developed and delivered training courses:
+  - Python Basic Training Course
+  - SQL fundamentals
+  - BI Tools (Power BI, Tableau concepts)
+  - VBA and Google App Script
+- Simplified & improved performance of SCM working files and automation processes using GSuite & VB scripts
+:::
 
+::: {.timeline-item}
 ### CUSTOMER SERVICE SPECIALIST
-**Company:** Ashton Furniture Consolidations LLC  
-**Location:** Binh Duong  
-**Date:** Jan 2021 - Oct 2021  
+**Ashton Furniture Consolidations LLC** | Binh Duong, Vietnam  
+*Jan 2021 - Oct 2021*
 
 Managed a combination of customer service, data analysis, and supply chain planning. Optimized order fulfillment, product availability, and warehouse capacity by collecting and analyzing large datasets from logistics and warehouse operations. Predicted and resolved critical issues, ensuring smooth material flow.
 
-**Responsibilities:**
-- Managed, analyzed, and optimized the order fulfillment process with over 140 vendors, coordinating logistics for approximately 60 containers shipped daily. Collaborated with manufacturing and warehouse-logistics teams regarding finished goods schedules and deliveries.
-- Balanced warehouse capacity, troubleshot SCM issues, and contributed to demand prediction.
-- Spearheaded continuous improvement efforts in SCM:
-    - Developed the Order Fulfillment Automation project using MS Power BI (ETL processes), providing planners with a draft plan and all required data. This reduced planning time from 12 labor hours to just 0.5 labor hours.
-    - Applied VBA, Power Query, and Power BI for Robotic Process Automation (RPA) in daily SCM tasks and reporting.
-- Enhanced team capacity by serving as an Excel, VBA, and Power Query trainer, focusing on SCM applications.
+#### 📋 Key Responsibilities
+- Managed, analyzed, and optimized the order fulfillment process with **over 140 vendors**
+- Coordinated logistics for approximately **60 containers shipped daily**
+- Collaborated with manufacturing and warehouse-logistics teams regarding finished goods schedules and deliveries
+- Balanced warehouse capacity and troubleshot SCM issues
+- Contributed to demand prediction and forecasting
 
-**Achievements:**
-- Best employee award Q4 2020.
-- Best employee award Q1 2021.
+#### 🚀 Continuous Improvement Initiatives
+- **Order Fulfillment Automation**: Developed automation using MS Power BI (ETL processes), providing planners with draft plans and all required data
+  - **Impact**: Reduced planning time from **12 labor hours to 0.5 labor hours** (96% reduction)
+- Applied VBA, Power Query, and Power BI for Robotic Process Automation (RPA) in daily SCM tasks and reporting
+- Enhanced team capacity by serving as an Excel, VBA, and Power Query trainer with focus on SCM applications
+
+#### 🏅 Recognition
+- Best Employee Award Q4 2020
+- Best Employee Award Q1 2021
+:::
+
+---
+
+## 💼 Impact Summary
+
+Throughout my career, I've consistently focused on:
+
+- **Digital Transformation**: Leading initiatives that modernize operations and improve efficiency
+- **Team Development**: Building capabilities through training and mentorship
+- **Process Automation**: Reducing manual work and increasing accuracy through intelligent systems
+- **Data-Driven Culture**: Fostering environments where decisions are based on solid analytics
+- **Innovation**: Implementing cutting-edge tools and methodologies to solve business challenges
