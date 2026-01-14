@@ -4,20 +4,49 @@ title: "About Me"
 
 ## About Me
 
-I am a passionate and dedicated professional with a strong background in data analysis, digital transformation, and supply chain management. My journey has been marked by a continuous desire to learn and grow, both personally and professionally. I thrive in environments that challenge me and provide opportunities to create a meaningful impact.
+I am a **passionate and dedicated professional** with a strong background in data analysis, digital transformation, and supply chain management. My journey has been marked by a continuous desire to learn and grow, both personally and professionally. I thrive in environments that challenge me and provide opportunities to create a meaningful impact.
 
 ### Professional Philosophy
 
-I believe in the power of data to drive decision-making and improve processes. My goal is to foster a culture of continuous improvement and innovation within organizations by leveraging data analytics and digital tools.
+I believe in the **power of data** to drive decision-making and improve processes. My goal is to foster a culture of continuous improvement and innovation within organizations by leveraging data analytics and digital tools. I approach every project with:
 
-### Interests
+- **Curiosity**: Always asking "why" and seeking to understand the underlying patterns in data
+- **Collaboration**: Working cross-functionally to ensure analytics solutions meet real business needs
+- **Continuous Learning**: Staying current with emerging technologies and best practices
+- **Impact Focus**: Prioritizing projects that deliver measurable value to the organization
 
-In addition to my professional pursuits, I enjoy learning new technologies, participating in hackathons, and sharing knowledge with others. I am particularly interested in the intersection of data science and supply chain management, and I am always looking for ways to apply my skills to solve real-world problems.
+### Interests & Passions
+
+In addition to my professional pursuits, I enjoy:
+
+- 💻 **Learning new technologies** - Currently exploring advanced machine learning techniques and cloud-based analytics platforms
+- 🏆 **Participating in hackathons** - Engaging with the data science community and solving real-world challenges
+- 📚 **Sharing knowledge** - Creating training materials and mentoring aspiring data analysts
+- 🔗 **Data Science & Supply Chain intersection** - Finding innovative ways to optimize operations through predictive analytics
+
+I am particularly interested in how **data science can revolutionize supply chain management**, from demand forecasting to inventory optimization, and I'm always looking for ways to apply cutting-edge techniques to solve practical business problems.
+
+### Career Highlights
+
+Throughout my career, I've had the privilege of:
+
+- Leading cross-functional teams to deliver digital transformation projects
+- Developing comprehensive training programs that upskilled hundreds of employees
+- Winning global recognition for innovative analytics solutions
+- Reducing manual work hours by 90%+ through automation and intelligent systems
+- Building data-driven cultures in traditional manufacturing environments
 
 ### Personal Details
 
 - **Birthdate:** June 27, 1994
 - **Location:** Thu Dau Mot, Binh Duong, Vietnam
 - **Contact:** daotuanthinh@gmail.com | (+84) 931770110
+- **Languages:** English (Fluent), Vietnamese (Native)
 
-Feel free to connect with me on [GitHub](https://github.com/thinhdao276) or reach out via email!
+### Beyond Work
+
+When I'm not diving into data, I enjoy staying active, exploring new technologies, and spending time learning about emerging trends in AI and automation. I believe in maintaining a healthy work-life balance and continuous personal development.
+
+---
+
+Feel free to connect with me on [GitHub](https://github.com/thinhdao276) or reach out via [email](mailto:daotuanthinh@gmail.com) to discuss data analytics, digital transformation, or collaboration opportunities!

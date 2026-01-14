@@ -1,18 +1,39 @@
 project:
   type: website
+  output-dir: _site
 
 website:
-  title: "thinhdao.github.io"
+  title: "Thinh Dao"
+  description: "Senior Data Analyst | Digital Transformation Leader"
+  site-url: https://thinhdao276.github.io
   navbar:
+    background: primary
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: about.qmd
+        text: About
+      - href: experience.qmd
+        text: Experience
+      - href: skills.qmd
+        text: Skills
+      - href: education.qmd
+        text: Education
+    right:
+      - icon: github
+        href: https://github.com/thinhdao276
+        aria-label: GitHub
+      - icon: envelope
+        href: mailto:daotuanthinh@gmail.com
+        aria-label: Email
 
 format:
   html:
     theme:
-      - cosmo
-      - brand
+      light: [cosmo, custom.scss]
     css: styles.css
     toc: true
+    toc-depth: 3
+    code-copy: true
+    code-overflow: wrap
+    link-external-newwindow: true
